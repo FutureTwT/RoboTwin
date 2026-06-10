@@ -9,6 +9,7 @@ envs/curobo
 viewer_show.*
 eval_video/
 task_config/
+tmp/
 **/.DS_Store
 
 # eval result
